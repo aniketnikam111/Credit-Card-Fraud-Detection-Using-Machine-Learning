@@ -1,2 +1,2 @@
-# Credit-Card-Fraud-Detection-Using-Machine-Learning
+# Credit Card Fraud Detection Using Machine Learning
 Credit Card Fraud Detection using Machine Learning in Python to identify potentially fraudulent transactions. Built with Pandas, NumPy, Scikit-learn, Flask, HTML, and CSS, this project includes data preprocessing, model training, fraud prediction, and a web interface. Designed for educational purposes, with future scope for real-time transaction 
